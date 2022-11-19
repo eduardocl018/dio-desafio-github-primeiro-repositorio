@@ -3,3 +3,9 @@ git add -A
 git commit -m ""
 git push origin master
 git status
+
+
+usando o toque touch newFile.txt apenas cria.
+usando eco echo > newFile.txt apenas cria.
+usando o gato cat > newFile.txt cria e pode começar a anexar ao arquivo.
+usando o vim vim newFile.txt cria e pode começar a editar o arquivo.
